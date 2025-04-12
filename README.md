@@ -1,0 +1,1 @@
+Esta atividade tem como objetivo investigar o comportamento de uma Rede Neural Multicamadas (MLP) ao aprender o problema lógico XOR, que é um clássico da área de redes neurais por não ser linearmente separável.
